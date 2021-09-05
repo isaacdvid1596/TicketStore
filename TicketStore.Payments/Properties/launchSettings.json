@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "TicketStore.Payments": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
